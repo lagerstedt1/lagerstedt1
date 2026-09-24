@@ -1,7 +1,7 @@
 ## Hi there 👋
 Currently at Digitalents Academy.
 Languages: HTML, CSS, Javascript.
-Here are my biggest projects:
+### Here are my biggest projects:
 - https://github.com/lagerstedt1/Clipboard-landing-page
 - https://github.com/lagerstedt1/qr-code
 - https://github.com/lagerstedt1/order-summary
