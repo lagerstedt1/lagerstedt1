@@ -1,3 +1,4 @@
+font-family: arial;
 ## Hi there 👋
 Currently at Digitalents Academy.
 Languages: HTML, CSS, Javascript.
