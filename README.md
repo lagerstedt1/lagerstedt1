@@ -8,5 +8,6 @@ Languages: HTML, CSS, Javascript.
 - [QR Code](https://github.com/lagerstedt1/qr-code)
 - [Order Summary](https://github.com/lagerstedt1/order-summary)
 - [HTML CSS Course](https://github.com/lagerstedt1/html-css-course)
+- [Javascript Course](https://github.com/lagerstedt1/javascript-course)
 
 📫 How to reach me: daniel.lagerstedt1@gmail.com
