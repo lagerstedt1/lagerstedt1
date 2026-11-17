@@ -7,6 +7,7 @@ Languages: HTML, CSS, Javascript.
 - [To-do App](https://github.com/lagerstedt1/To-do-app)
 - [QR Code](https://github.com/lagerstedt1/qr-code)
 - [Order Summary](https://github.com/lagerstedt1/order-summary)
+- ## Courses completed
 - [HTML CSS Course](https://github.com/lagerstedt1/html-css-course)
 - [Javascript Course](https://github.com/lagerstedt1/javascript-course)
 
